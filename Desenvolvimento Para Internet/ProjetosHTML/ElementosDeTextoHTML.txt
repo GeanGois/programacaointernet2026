@@ -1,0 +1,15 @@
+ELEMENTOS DE TEXTO HTML:
+
+<h1> - <h6>   = Titulo
+<p></p>       = Parágrafo
+<b></b>       = Negrito
+<br></br>     = Pular Linha
+<abbr></abbr> = Abreviação
+<i></i>       = Itálico
+<hr>          = Linha de separação
+
+OUTROS ELEMENTOS:
+<ul><li>      = Lista
+<details>     = Tópico Oculto
+<img>         = Imagen
+
